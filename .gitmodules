@@ -1,15 +1,15 @@
 [submodule "build"]
 	path = build
-	url = ../build.git
+	url = ../rockpi-build.git
 [submodule "rkbin"]
 	path = rkbin
-	url = ../rkbin.git
+	url = ../rockpi-rkbin.git
 [submodule "u-boot"]
 	path = u-boot
-	url = ../u-boot.git
+	url = ../rockpi-u-boot.git
 [submodule "rootfs"]
 	path = rootfs
 	url = ../rk-rootfs-build.git
 [submodule "kernel"]
 	path = kernel
-	url = ../kernel.git
+	url = ../rockpi-kernel.git
